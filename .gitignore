@@ -21,7 +21,7 @@ bin/
 /lib
 /deploy/
 /logs/
-/modules
+
 /project/project
 /project/target
 /target
